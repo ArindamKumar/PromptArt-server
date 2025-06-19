@@ -11,7 +11,7 @@ const app=express()
 
 app.use(express.json())
 app.use(cors({
-  origin: 'https://promptart-client-7vfc8qi05-arindam-kumars-projects.vercel.app',
+  origin: 'https://promptart-client.vercel.app',
   credentials: true
 }))
 await connectDB()

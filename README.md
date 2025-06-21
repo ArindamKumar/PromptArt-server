@@ -17,4 +17,4 @@ This is the backend API for the PromptArt full-stack AI image generator.
 
 ## Deployed On
 
-- Render: [https://your-api-url.onrender.com](#)
+- Render: [https://promptart-server.onrender.com](#)
